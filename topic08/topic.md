@@ -1,3 +1,3 @@
-IoT Platforms
+#Presentation Skills
 
-Introduction to IoT Platforms and Thingspeak
+This topic introduces presentation and communiction skills. 
