@@ -60,8 +60,8 @@ void loop() {
   Serial.print("Response: ");
   Serial.println(response);
   Serial.println("Wait five seconds");
-    DeserializationError error = deserializeJson(doc, response);
-const char* weah=doc["weather"][0]["description"];
+     deserializeJson(doc, response);
+const char* weah=doc["weather"]["description"];
    Serial.println(weah);
   delay(5000);
 }
