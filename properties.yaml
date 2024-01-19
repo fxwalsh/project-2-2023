@@ -6,7 +6,7 @@ credits: Dr Frank Walsh (SETU)
 ignorepin : 1213
 auth           : 0
 ignore    :
-  - topic02
+  #- topic02
   - topic03
   - topic04
   - topic05
